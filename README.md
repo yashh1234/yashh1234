@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 # 💫 About Me:
-👨‍💻 Software Developer<br>🌱 I’m currently learning Svelte Framework<br>💬 Ask me about resources to learn Software & Web Development<br>📫 How to reach me yashguptace@gmail.com<br>📄 View my resume here https://yashh1234.github.io/Resume/<br>🌐 My portfolio https://portfolio-5yl8.onrender.com
+👨‍💻 Frontend Engineer<br>🎨 Passionate about crafting intuitive, accessible, and visually appealing user interfaces<br>🌱 Constantly refining my approach to building performant, accessible, and user-focused web experiences<br>⚡ Enjoy turning complex ideas into clean, intuitive interfaces using modern frontend technologies<br>📫 Reach me at yashguptace@gmail.com<br>📄 View my resume: yashh1234.github.io/Resume<br>🌐 Portfolio: portfolio-5yl8.onrender.com
 
 
 # 🌐 Socials:
