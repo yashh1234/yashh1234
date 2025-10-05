@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 # 💫 About Me:
-👨‍💻 Frontend Engineer<br>🎨 Passionate about crafting intuitive, accessible, and visually appealing user interfaces<br>🌱 Constantly refining my approach to building performant, accessible, and user-focused web experiences<br>⚡ Enjoy turning complex ideas into clean, intuitive interfaces using modern frontend technologies<br>📫 Reach me at yashguptace@gmail.com<br>📄 View my resume: https://yashh1234.github.io/Resume/<br>🌐 Portfolio: https://portfolio-5yl8.onrender.com/
+👨‍💻 Frontend Software Engineer | Accessibility Engineer<br>🎨 Passionate about crafting intuitive, accessible, and visually appealing user interfaces<br>🌱 Constantly refining my approach to building performant, accessible, and user-focused web experiences<br>⚡ Enjoy turning complex ideas into clean, intuitive interfaces using modern frontend technologies<br>📫 Reach me at yashguptace@gmail.com<br>📄 View my resume: https://yashh1234.github.io/Resume/<br>🌐 Portfolio: https://portfolio-5yl8.onrender.com/
 
 
 # 🌐 Socials:
