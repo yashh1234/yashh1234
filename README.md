@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-👨‍💻 **Frontend Software Engineer | Accessibility Engineer**  
+👨‍💻 **Frontend Software Engineer | Web Accessibility Specialist**  
 🎨 Passionate about designing and building **intuitive, accessible, and visually refined user interfaces**.  
 🌱 Continuously evolving my approach to create **performant, inclusive, and human-centered web experiences**.  
 ⚡ I love turning **complex problems into simple, elegant solutions** using modern frontend technologies.  
